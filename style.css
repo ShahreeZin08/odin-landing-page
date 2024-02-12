@@ -38,3 +38,23 @@ a {
 .links {
     padding-right: 20px;
 }
+
+.section-one {
+    background-color: #1F2937; 
+}
+
+.hero-main {
+    font-size: 48px;
+    color: #F9Faf8;
+    font-weight: bolder;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+}
