@@ -46,10 +46,14 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    
 }
 
 .hero {
-    width: 530px;
+    width: 370px;
+    margin-left: 120px;
+    outline: 2px solid black;
+    
 }
 
 .hero-main {
@@ -71,4 +75,18 @@ a {
     border-radius: 8px;
     cursor: pointer;
     margin-top: 10px;
+}
+
+.hero-image {
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+    outline: 2px solid black;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
 }
