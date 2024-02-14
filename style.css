@@ -160,3 +160,43 @@ a {
     max-width: 200px;
     padding-left: 500px;
 }
+
+.section-four {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    background-color: #3882f6;
+    padding: 50px 100px;
+    border-radius: 8px;
+    display: flex;
+    gap:100px;
+}
+
+.modal-header {
+    font-weight: bolder;
+}
+
+.modal-button {
+    background: #3882f6;
+    color: #e5e7eb;
+    border: 1px solid #e5e7eb;
+    padding: 2px 28px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
